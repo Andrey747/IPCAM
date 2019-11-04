@@ -1,0 +1,25 @@
+#container{
+width:1200px;
+margin:0px auto;	
+text-align:center;
+}
+body{
+text-align:center;
+}
+#content{
+width:1000px;
+margin:0px auto;
+text-align:center;	
+}
+#content h1{
+width:1000px;
+clear:left;
+}
+#content .row{
+margin-left:20px;
+}
+#content a{
+text-decoration:none;
+color:red;
+width:200px;
+}
